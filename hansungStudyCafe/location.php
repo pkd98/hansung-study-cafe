@@ -20,7 +20,7 @@
     <!-- font Awesome 로고 사용-->
     <script src="https://kit.fontawesome.com/9404168568.js" crossorigin="anonymous"></script>
     <!-- 카카오 지도 API 사용 -->
-	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5082aba073eeee4dbd5606104fd17280&libraries=services,clusterer"></script>
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=,clusterer"></script>
     <style>
         p {font-family: 'Do Hyeon', sans-serif;}
         p.a {
