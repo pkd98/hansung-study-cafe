@@ -1,5 +1,5 @@
 # Hansung-Study-Cafe
-시연영상 : [추후 추가]  
+시연영상 : [유튜브](https://youtu.be/XnQuGWWUmRE)
 
 # 설명
 ## 주제
